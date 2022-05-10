@@ -1,0 +1,16 @@
+- git init - inicia o repositorio 
+
+VERIFICANDO ALTERAÇÕES: 
+
+apos fazer uma alteração em um arquivo é necessario adiciona-lo novamente: 
+
+- git add "nome arquivo" ou git add . (para adicionar tudo e uma vez)
+
+- git commit . -m "mensagem": faz o commit
+
+- git branch -M main - define o repositorio como master (acho que é isso)
+
+- git remote add origin "endereço do repo" -
+
+- git push -u origin main: faz o upload dos commits na branch master ()
+
