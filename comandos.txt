@@ -14,3 +14,16 @@ apos fazer uma alteração em um arquivo é necessario adiciona-lo novamente:
 
 - git push -u origin main: faz o upload dos commits na branch master ()
 
+CLONANDO REPO
+
+- git clone linkdorepo
+
+- cd nomedorepo (ja na sua maquina)
+
+- faço alterações
+
+- git add
+
+- git commit -m "tanana"
+
+- git push
